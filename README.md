@@ -1,0 +1,1 @@
+This repo exists to publish txt records for github pages
